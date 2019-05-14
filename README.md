@@ -1,4 +1,4 @@
-# healthy-me
+# Healthy Me
 
 A Modern, Clean, Proffesional, Responsive website designed with "content-first" approach.
 
