@@ -12,10 +12,10 @@ Healthy Me is fictional company, devoted to bring healthy and affordable meals t
 ## Audience 
 Busy people who don't have time to cook or dont want to cook.
 
-## Color 
+## Colour 
 Flat UI colours
 Orange: Associated with friendliness, confidence and courage.
 
 ## Font
 LATO: The semi rounded details of thr letters gives the typeface feeling of warmth.
- According to the designer of this font, it is male and female, serious but friendly with feeling of summer.
+According to the designer of this font, it is male and female, serious but friendly with feeling of summer.
